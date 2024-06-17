@@ -1,10 +1,12 @@
 # PRODIGY_WD_05
 🌤️  Introducing My Weather Data Fetcher! 🚀
+
 🔍 Key Features:
 
 Location-Based Data: Utilizing geolocation API to fetch weather details specific to the user's current location.
 Responsive Design: Crafted with HTML for structure, CSS for styling, ensuring a seamless experience across devices.
 Dynamic Updates: Implemented JavaScript to dynamically update weather information, providing accurate and timely data.
+
 🌍 Technological Insights:
 Developing this application has deepened my understanding of integrating APIs, handling asynchronous JavaScript operations, and optimizing user experience through responsive design. It's inspiring to witness how technology can bring practical utility to everyday tasks.
 
